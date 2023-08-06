@@ -1,4 +1,4 @@
-/*By: Areebah Fatima (AXF190025)
+/*
 Below we declare the packages and APIs needed for this program
 java.io will be used to process inputs and produce outputs
 java.util.Scanner allows us to use the Scanner class to get user inputs */
